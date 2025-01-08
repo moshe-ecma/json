@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "name": "John",
-      "age": 30,
-      "city": "New York"
+      "name": "Moshe",
+      "age": 22,
+      "city": "Toronto"
     },
     {
-      "name": "Jane",
-      "age": 25,
-      "city": "Los Angeles"
+      "name": "Shua",
+      "age": 22,
+      "city": "New York City"
     }
   ]
 }
